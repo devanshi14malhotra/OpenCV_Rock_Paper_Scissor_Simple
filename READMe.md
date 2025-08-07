@@ -26,7 +26,7 @@ pip install opencv-python mediapipe notebook
 ## Run
 
 ```bash
-jupyter notebook rps.ipynb
+jupyter notebook rps_one.ipynb
 ```
 
 Make sure your webcam is connected and your hand is visible during the game.
