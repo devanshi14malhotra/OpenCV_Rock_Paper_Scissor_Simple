@@ -1,4 +1,4 @@
-# Rock Paper Scissors - Hand Gesture Recognition
+# Rock Paper Scissors: Hand Gesture Recognition
 
 A simple Rock, Paper, Scissors game built in Jupyter Notebook using real-time hand gesture detection with OpenCV and MediaPipe.
 
